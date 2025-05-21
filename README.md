@@ -40,7 +40,7 @@
 | 7️⃣     | **Run and test the app**                                                                                        |
 | 8️⃣     | ✅ Done! Test full app flow including earning and withdrawals                                                   |
 
-### Developer Information
+### Privacy & Data Policy
 
 | Item                     | Status                        |
 | ------------------------ | ----------------------------- |
