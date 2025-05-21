@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/8af600c0-2cce-4f10-a81b-aafabd53d86d" width="200"/>
 </p>
 
-### App Overview
+### Project Overview
 
 | Section         | Details                                                             |
 | --------------- | ------------------------------------------------------------------- |
