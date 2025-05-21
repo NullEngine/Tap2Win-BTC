@@ -6,6 +6,8 @@
 
 
 
+
+
 | Section         | Details                                                             |
 | --------------- | ------------------------------------------------------------------- |
 | 🧾 Project Name     | **Tap2Win BTC**                                                    |
@@ -17,6 +19,7 @@
 | ⚙️ API          | FaucetPay API for BTC transfer                                      |
 | 📈 Withdrawal   | Minimum 1000 points (or as defined)                                 |
     
+
 
 | Feature               | Description                                   |
 | --------------------- | --------------------------------------------- |
@@ -47,13 +50,14 @@
 | 🧹 Data Deletion Request | ✅ Supported                   |
 | 🔐 Login Safety          | ✅ Secured with Google Sign-In |
 
- ┌─────────────────────────────┐
- │    Developer Contact Info   │
- ├─────────────────────────────┤
- │ Name  : Mahamudul Hasan     │
- │ Email : NullEngine@gmail.com│
- │ GitHub: https://github.com/NullEngine │
- └─────────────────────────────┘
+
+Developer Information
+| Item      | Details                                                        |
+| --------- | -------------------------------------------------------------- |
+| 👤 Name   | Mahamudul Hasan                                                |
+| 📧 Email  | [NullEngine@gmail.com](mailto:NullEngine@gmail.com)            |
+| 🔗 GitHub | [https://github.com/NullEngine](https://github.com/NullEngine) |
+
 
 
 
