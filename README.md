@@ -4,10 +4,6 @@
   <img src="https://github.com/user-attachments/assets/8af600c0-2cce-4f10-a81b-aafabd53d86d" width="200"/>
 </p>
 
-
-
-
-
 | Section         | Details                                                             |
 | --------------- | ------------------------------------------------------------------- |
 | 🧾 Project Name     | **Tap2Win BTC**                                                    |
@@ -18,8 +14,6 @@
 | 🗃️ Backend     | PHP + MySQL (API based)                                             |
 | ⚙️ API          | FaucetPay API for BTC transfer                                      |
 | 📈 Withdrawal   | Minimum 1000 points (or as defined)                                 |
-    
-
 
 | Feature               | Description                                   |
 | --------------------- | --------------------------------------------- |
@@ -29,19 +23,16 @@
 | 💵 BTC Withdraw       | Withdraw points in Bitcoin via FaucetPay      |
 | 📊 Point Tracker      | Real-time tracking of earned and spent points |
 
-
-
-| 🔢 Step | 🧰 Command / Description                                                                                                                                                                                  |
-| ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1️⃣     | **Clone the repository:**<br>`git clone https://github.com/NullEngine/Tap2WinBTC.git`                                                                                                                     |
-| 2️⃣     | **Open the project** in **Android Studio**                                                                                                                                                                |
-| 3️⃣     | **Connect with your own backend server:**<br>Update the API base URL in `Constants.java` with your own PHP server URL. Example:<br>`public static final String BASE_URL = "https://yourdomain.com/api/";` |
-| 4️⃣     | **Set up backend (PHP + MySQL):**<br>- Upload PHP API files to your hosting (e.g., cPanel)<br>- Import provided `.sql` file into your database<br>- Update DB credentials inside the PHP files            |
-| 5️⃣     | **Configure FaucetPay API credentials** on both server and app if needed                                                                                                                                  |
-| 6️⃣     | **Enable Google Sign-In:**<br>Make sure to replace the `google-services.json` file with your own from Firebase Console                                                                                    |
-| 7️⃣     | **Run the app** on an emulator or real device and test connectivity with your backend                                                                                                                     |
-| 8️⃣     | ✅ Done! You’re ready to test the full app flow including earning and withdrawals                                                                                                                          |
-
+| 🔢 Step | 🧰 Command / Description                                                                                       |
+| ------- | ------------------------------------------------------------------------------------------------------------ |
+| 1️⃣     | **Clone the repository:**<br>`git clone https://github.com/NullEngine/Tap2WinBTC.git`                           |
+| 2️⃣     | **Open the project** in **Android Studio**                                                                     |
+| 3️⃣     | **Connect with your own backend server:**<br>Update the API base URL in `Constants.java` with your own server URL |
+| 4️⃣     | **Set up backend (PHP + MySQL):**<br>- Upload PHP API files to hosting<br>- Import `.sql` to DB<br>- Update DB creds |
+| 5️⃣     | **Configure FaucetPay API credentials**                                                                        |
+| 6️⃣     | **Enable Google Sign-In:**<br>Replace `google-services.json` from Firebase Console                             |
+| 7️⃣     | **Run and test the app**                                                                                        |
+| 8️⃣     | ✅ Done! Test full app flow including earning and withdrawals                                                   |
 
 | Item                     | Status                        |
 | ------------------------ | ----------------------------- |
@@ -50,34 +41,19 @@
 | 🧹 Data Deletion Request | ✅ Supported                   |
 | 🔐 Login Safety          | ✅ Secured with Google Sign-In |
 
+### Developer Information
 
-Developer Information
 | Item      | Details                                                        |
 | --------- | -------------------------------------------------------------- |
 | 👤 Name   | Mahamudul Hasan                                                |
 | 📧 Email  | [NullEngine@gmail.com](mailto:NullEngine@gmail.com)            |
 | 🔗 GitHub | [https://github.com/NullEngine](https://github.com/NullEngine) |
 
+---
 
-
-
-📢 Notes
-The app is for educational and entertainment purposes.
-
-Cryptocurrency should be used responsibly.
-
+📢 **Notes**  
+The app is for educational and entertainment purposes.  
+Cryptocurrency should be used responsibly.  
 FaucetPay account is required to receive BTC withdrawals.
-
-🛠️ Want a downloadable README.md file? Let me know — I can generate one for you right away.
-
-Need to add badges (like version, build, license)? Feel free to ask!
-
-
-
-
-
-
-
-
 
 
