@@ -4,6 +4,8 @@
   <img src="https://github.com/user-attachments/assets/8af600c0-2cce-4f10-a81b-aafabd53d86d" width="200"/>
 </p>
 
+### App Overview
+
 | Section         | Details                                                             |
 | --------------- | ------------------------------------------------------------------- |
 | 🧾 Project Name     | **Tap2Win BTC**                                                    |
@@ -15,6 +17,8 @@
 | ⚙️ API          | FaucetPay API for BTC transfer                                      |
 | 📈 Withdrawal   | Minimum 1000 points (or as defined)                                 |
 
+### Key Features
+
 | Feature               | Description                                   |
 | --------------------- | --------------------------------------------- |
 | 🎁 Daily Special Task | Complete daily tasks and earn points          |
@@ -22,6 +26,8 @@
 | 👥 Referral           | Invite users and get referral bonuses         |
 | 💵 BTC Withdraw       | Withdraw points in Bitcoin via FaucetPay      |
 | 📊 Point Tracker      | Real-time tracking of earned and spent points |
+
+### Installation Instructions
 
 | 🔢 Step | 🧰 Command / Description                                                                                       |
 | ------- | ------------------------------------------------------------------------------------------------------------ |
@@ -33,6 +39,8 @@
 | 6️⃣     | **Enable Google Sign-In:**<br>Replace `google-services.json` from Firebase Console                             |
 | 7️⃣     | **Run and test the app**                                                                                        |
 | 8️⃣     | ✅ Done! Test full app flow including earning and withdrawals                                                   |
+
+### Developer Information
 
 | Item                     | Status                        |
 | ------------------------ | ----------------------------- |
