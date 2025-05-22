@@ -1,1 +1,13 @@
+You can download the GeoIP2 databases from MaxMind, the official provider. Here's how:
 
+✅ Download GeoLite2 (Free version):
+Go to the official MaxMind download page:
+🔗 https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+
+Create a free MaxMind account if you haven’t already.
+
+After logging in, you'll get access to download the GeoLite2-City.mmdb (used for city-based lookup) and GeoLite2-Country.mmdb.
+
+Direct link (after login):
+🔗 https://www.maxmind.com/en/accounts/current/license-key
+Use this license key with the GeoIP Update tool or for manual download via their API.
