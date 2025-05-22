@@ -1,0 +1,6 @@
+{
+    "require": {
+        "coinbase/coinbase": "^2.8",
+        "geoip2/geoip2": "^2.13"
+    }
+}
