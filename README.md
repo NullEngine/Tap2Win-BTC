@@ -31,7 +31,7 @@
 
 | 🔢 Step | 🧰 Command / Description                                                                                       |
 | ------- | ------------------------------------------------------------------------------------------------------------ |
-| 1️⃣     | **Clone the repository:**<br>`git clone https://github.com/NullEngine/Tap2WinBTC.git`                           |
+| 1️⃣     | **Clone the repository:**<br>`git clone https://github.com/NullEngine/Tap2Win-BTC.git`                           |
 | 2️⃣     | **Open the project** in **Android Studio**                                                                     |
 | 3️⃣     | **Connect with your own backend server:**<br>Update the API base URL in `Constants.java` with your own server URL |
 | 4️⃣     | **Set up backend (PHP + MySQL):**<br>- Upload PHP API files to hosting<br>- Import `.sql` to DB<br>- Update DB creds |
