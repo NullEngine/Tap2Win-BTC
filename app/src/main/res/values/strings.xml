@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Tap2Win BTC</string>
+    <string name="Points_text">Points</string>
+    <string name="Points">0</string>
+    <string name="refer_text">+ 0 referral Points</string>
+    <string name="Last_withdraw">Last Withdrawals</string>
+    <string name="total_refer_head">Total Earned:</string>
+    <string name="total_refer_points">0 Points</string>
+    <string name="refer">Refer Code</string>
+    <string name="my_reerrals">My Referrals</string>
+    <string name="email_3">Tomfe***@gmail.com - 32980 Points</string>
+    <string name="shere">Shere</string>
+    <string name="refer_details">Get 20% your friend\'s profits, Shere your code:</string>
+    <string name="email">Email</string>
+    <string name="withdraw">Withdrawals</string>
+    <string name="back">-</string>
+    <string name="your_email">test101010@gmail.com</string>
+    <string name="privacy">Privacy Policy</string>
+    <string name="claim">Claim</string>
+    <string name="history">Claim history</string>
+    <string name="select_wallet">Select Wallet:</string>
+    <string name="select_coin">Select Coin:</string>
+    <string name="btc">BTC</string>
+    <string name="binance">Binance</string>
+    <string name="status">Status</string>
+    <string name="check">Check</string>
+    <string name="refer_code">Refer Code:</string>
+    <string name="submit">Submit</string>
+    <string name="no_promotion_yet">No Offer Yet</string>
+    <string name="promotional_camping">Offers</string>
+    <string name="go">Go</string>
+    <string name="time_formate">%2d</string>
+    <string name="choose_login_title">By loging an continue accept and agree to our</string>
+    <string name="no_transection_yet">No Transection Yet</string>
+    <string name="referral_friend">Referral Friend</string>
+    <string name="version_name">Version: 2.0</string>
+    <string name="note">Please Note: To proceed, you must sign in with an existing Binance account. We only facilitate payments through Binance.</string>
+
+
+</resources>

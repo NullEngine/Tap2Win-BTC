@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+<!--    <color name="go_button_layer1">#ef7b16</color>-->
+<!--    <color name="go_button_layer2">#a55e13</color>-->
+<!--    <color name="go_button_layer3">#f49517</color>-->
+<!--    <color name="go_button_layer1">#44444480</color>-->
+
+<!--    <color name="point_button_layer1">#bd6213</color>-->
+<!--    <color name="point_button_layer2">#cb790e</color>-->
+<!--    <color name="point_button_layer3">#f8b037</color>-->
+<!--    <color name="point_button_layer4">#FABB52</color>-->
+<!--    <color name="point_button_layer1">#44444480</color>&ndash;&gt;-->
+    <color name="Primary">#222222</color>
+
+
+
+
+    <color name="point_button_layer2">#444444</color>
+    <color name="point_button_layer3">#444444</color>
+<!--    <color name="point_button_layer4">#14E3B500</color>-->
+    <color name="point_button_layer1">#555555</color>-->
+<!--    <color name="point_button_layer4">#23E3B500</color>-->
+    <color name="point_button_layer4">#28777777</color>
+
+
+    <color name="go_button_layer2">#666666</color>
+    <color name="go_button_layer3">#777777</color>
+    <color name="go_button_layer1">#444444</color>
+        <color name="bg">#ed7516</color>
+        <color name="privacy_color">#333333</color>
+        <color name="splash_lastlayer">#F6C675</color>
+    </resources>
