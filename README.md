@@ -54,7 +54,7 @@
 | Item      | Details                                                        |
 | --------- | -------------------------------------------------------------- |
 | 👤 Name   | Mahamudul Hasan                                                |
-| 📧 Email  | [contact.nullnngine@gmail.com](mailto:NullEngine@gmail.com)            |
+| 📧 Email  | [contact.nullengine@gmail.com](mailto:NullEngine@gmail.com)            |
 | 🔗 GitHub | [https://github.com/NullEngine](https://github.com/NullEngine) |
 
 ---
